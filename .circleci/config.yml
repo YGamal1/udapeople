@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@YGamal1 
-YGamal1
-/
-udapeople
-Public
-forked from udacity/cdond-c3-projectstarter
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-udapeople/.circleci/config.yml
-@YGamal1
-YGamal1 Update config.yml
-Latest commit 90f4b73 1 minute ago
- History
- 2 contributors
-@YGamal1@bsommardahl
-106 lines (95 sloc)  2.44 KB
-
 version: 2.1
 
 commands:
